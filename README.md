@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Victoria Oguamanam
 
 ## About Me
-I'm a Certified Data Analyst with a passion for turning raw data into meaningful insights that support business decisions.
+I'm an aspiring Data Analyst with hands-on experience in Excel, SQL, Power BI, and Python. I enjoy transforming raw data into meaningful insights through dashboards, reports, and data visualization to support better business decisions.
+
+I'm continuously building practical projects and expanding my skills in data analytics.
+
 
 ## 🛠 Skills
 - Microsoft Excel
@@ -23,6 +26,17 @@ Current and upcoming projects include:
 - 🐍 Python Data Analysis
 - 🧹 Data Cleaning & Transformation
 - 📉 Business Intelligence Reports
+
+## 🛠️ Tools
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Git
+- GitHub
+- MySQL
+
 
 ## 📬 Connect with Me
 
