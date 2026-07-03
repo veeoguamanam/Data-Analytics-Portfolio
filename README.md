@@ -24,9 +24,6 @@ Current and upcoming projects include:
 - 🧹 Data Cleaning & Transformation
 - 📉 Business Intelligence Reports
 
-## 📫 Connect with Me
-www.linkedin.com/in/veeoguamanam43
-
 ## 📬 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/veeoguamanam43
