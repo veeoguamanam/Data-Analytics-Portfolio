@@ -14,6 +14,17 @@ I'm continuously building practical projects and expanding my skills in data ana
 - Git
 - GitHub
 
+
+## 🛠️ Tools
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Git
+- GitHub
+- MySQL
+
 ## 📁 Portfolio Projects
 
 This repository showcases my journey in data analytics through practical projects.
@@ -26,16 +37,6 @@ Current and upcoming projects include:
 - 🐍 Python Data Analysis
 - 🧹 Data Cleaning & Transformation
 - 📉 Business Intelligence Reports
-
-## 🛠️ Tools
-
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Git
-- GitHub
-- MySQL
 
 
 ## 📬 Connect with Me
