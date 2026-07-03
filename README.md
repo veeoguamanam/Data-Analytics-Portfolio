@@ -8,6 +8,8 @@ I'm a Certified Data Analyst with a passion for turning raw data into meaningful
 - SQL
 - Power BI
 - Python
+- Git
+- GitHub
 
 ## 📂 Portfolio Projects
 This repository showcases my data analytics projects using Excel, SQL, Power BI, and Python.
