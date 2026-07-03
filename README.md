@@ -21,4 +21,4 @@ I will be uploading projects covering:
 - 🐍 Python Data Analysis
 
 ## 📫 Connect with Me
-LinkedIn: www.linkedin.com/in/veeoguamanam43
+www.linkedin.com/in/veeoguamanam43
